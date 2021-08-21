@@ -1,8 +1,8 @@
 import 'package:dartz/dartz.dart';
+
 import 'package:number_trivia/core/Exceptions/cache_exception.dart';
 import 'package:number_trivia/core/Exceptions/server_exception.dart';
 import 'package:number_trivia/core/Failures/cache_failure.dart';
-
 import 'package:number_trivia/core/Failures/failure.dart';
 import 'package:number_trivia/core/Failures/server_failure.dart';
 import 'package:number_trivia/core/infra/contracts/inetwork_info.dart';

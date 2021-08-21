@@ -1,7 +1,6 @@
 import 'dart:convert';
 
 import 'package:number_trivia/core/infra/contracts/ilocal_storage.dart';
-import 'package:number_trivia/features/number_trivia/data/models/number_trivia_model.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class LocalStorage implements ILocalStorage {
